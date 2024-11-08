@@ -23,4 +23,4 @@ Preprocesador que permite unificar elementos del diseño por medio de un estruct
 Descrpción de Bootstrap. 
 
 Framework que permite mejorar la calidad del diseño web. Este es un preprocesador con elementos integrados que permiten agilizar el diseño WEB. Para este proyecto los elementos bootstrap será incluidos por el CDN
-
+Información extraída de la documentación https://getbootstrap.com/
