@@ -14,7 +14,7 @@ Las caracteristicas a mejorar son:
 
 Descripción de la modularización 
 
-Se utiliza la arquitectura 7-1 utilizando la documentación oficial de Sass https://sass-guidelin.es/es/#arquitectura donde se definen las carpetas y los archivos de la apliación. Esta estructura nos permite tener una mayor versatiliad para realizar de los cambios necesarios. 
+Se utiliza la arquitectura 7-1 utilizando la documentación oficial de Sass https://sass-guidelin.es/es/#arquitectura donde se definen las carpetas y los archivos de la aplicación. Esta estructura nos permite tener una mayor versatiliad para realizar de los cambios necesarios. 
 
 Descripción de Sass. 
 
